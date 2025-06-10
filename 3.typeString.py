@@ -19,3 +19,9 @@ print("Leon \"Santana\"")
 
 # r
 print(r"Leon \"Santana\"")
+
+# Repetição
+print("ha" * 3)
+
+# Métodos
+print("leon".upper())
